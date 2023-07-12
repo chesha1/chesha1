@@ -2,7 +2,7 @@
 - 👀 I’m interested in signal processing(espcially deep learning) and computer graphics.
 - 🌱 I’m currently learning medical imaging.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...  <a href="https://www.zhihu.com/people/asdfg-50-39"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-Zhihu-blue" /></a>  
+- 📫 How to reach me ...  
 
 
 
